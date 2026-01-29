@@ -1,5 +1,5 @@
-# Stealthify:
-AN ANDROID BASE APPLICATION FOR ANONYMITY AND SECURITY USING DYNAMIC IP SWITCHING
+# Stealthify: AN ANDROID BASE APPLICATION FOR ANONYMITY AND SECURITY USING DYNAMIC IP SWITCHING
+
 
 Key features:
 Dynamic IP rotation every 15 minutes (automatic IP address change on schedule)
