@@ -1,2 +1,15 @@
-# Stealthify
-Stealthify is an Android app for secure routing and IP privacy. It rotates your IP every 15 minutes, with manual or automatic rotation modes. Includes a battery threshold feature that limits or pauses rotation when power is low, plus real-time connection status and basic session controls.
+# Stealthify:
+AN ANDROID BASE APPLICATION FOR ANONYMITY AND SECURITY USING DYNAMIC IP SWITCHING
+
+Key features:
+Dynamic IP rotation every 15 minutes (automatic IP address change on schedule)
+Manual and automatic IP rotation modes
+Manual mode for user-triggered IP changes
+Automatic mode for timed rotation without user input
+Battery threshold protection
+Stops or limits IP rotation when battery drops below a set percentage
+Helps reduce power drain during long sessions
+Secure traffic routing using configurable tunnel or proxy backends
+Real-time connection status, latency, and network health monitoring
+Session controls, reconnect logic, and basic failover behavior
+Logs and activity history for troubleshooting and review
