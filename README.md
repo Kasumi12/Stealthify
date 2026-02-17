@@ -1,5 +1,6 @@
 # STEALTHIFY: AN ANDROID BASE APPLICATION FOR ANONYMITY AND SECURITY USING DYNAMIC IP SWITCHING
 
+Capstone Project for the Bachelor of Science in Information Technology (BSIT), Major in Network Administration
 
 Key features:
 Dynamic IP rotation every 15 minutes (automatic IP address change on schedule)
